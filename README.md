@@ -1,6 +1,8 @@
 ## Hi there, I'm Andre! 👋
 
-### I'm a second-year Computer Science student at UofT :school:
+### I'm a second-year Software Engineering student at UofT :school:
+
+Feel free to reach out at andre.fong@mail.utoronto.ca!
 
 <!--
 - 🔭 I’m currently working on ...
