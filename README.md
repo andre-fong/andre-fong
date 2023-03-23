@@ -1,8 +1,16 @@
 ## Hi there, I'm Andre! 👋
 
-### I'm a second-year Software Engineering student at UofT :school:
+**I'm a second-year Software Engineering student at UofT! 🟦 🏫**
 
-Feel free to reach out at andre.fong@mail.utoronto.ca!
+- 💻 Currently developing with: **Next.js**, **React Native**
+- 🔨 Latest project: [**Wordle Step**](https://github.com/andre-fong/Wordle-Step) (check it out!!) 
+- 📍 Currently working at: **Verto Health**
+- 🏃‍♂️ Interests: **Skiing**, **Anime**, and **Volleyball** 🎿🍿🏐
+- 📫 Reach me at: **andre.fong@mail.utoronto.ca**
+
+
+
+![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-fong&show_icons=true&count_private=true)
 
 <!--
 - 🔭 I’m currently working on ...
