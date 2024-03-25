@@ -4,7 +4,7 @@
 
 - 💻 Currently developing with: **Next.js**, **React Native**
 - 🔨 Latest project: [**Wordle Step**](https://github.com/andre-fong/Wordle-Step) (check it out!!) 
-- 📍 Currently working at: **Verto Health**
+- 📍 Currently working at: **Symcor**
 - 🏃‍♂️ Interests: **Skiing**, **Anime**, and **Volleyball** 🎿🍿🏐
 - 📫 Reach me at: **andre.fong@mail.utoronto.ca**
 
