@@ -1,14 +1,15 @@
 ## Hi there, I'm Andre! 👋
 
-**I'm a second-year Software Engineering student at UofT! 🟦 🏫**
+**I'm a third-year Software Engineering student at UofT. Nice to meet ya!**
 
 - 💻 Currently developing with: **Next.js**, **React Native**
-- 🔨 Latest project: [**Wordle Step**](https://github.com/andre-fong/Wordle-Step) (check it out!!) 
+- 🔨 Latest project: [**SuperBiddo**](https://github.com/andre-fong/SUPERBIDDO) (check it out!!) 
 - 📍 Currently working at: **Symcor**
-- 🏃‍♂️ Interests: **Skiing**, **Anime**, and **Volleyball** 🎿🍿🏐
+- 👯 Looking to collaborate on: **A cool full-stack web project**
+- 🏃‍♂️ Interests: **Training**, **Anime**, and **Volleyball** 🏋️🍿🏐
 - 📫 Reach me at: **andre.fong@mail.utoronto.ca**
 
-
+---
 
 ![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andre-fong&show_icons=true&count_private=true)
 
