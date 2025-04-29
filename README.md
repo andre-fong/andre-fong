@@ -1,10 +1,10 @@
 ## Hi there, I'm Andre! 👋
 
-**I'm a third-year Software Engineering student at UofT. Nice to meet ya!**
+**I'm a fourth-year Software Engineering student at UofT. Nice to meet ya!**
 
 - 💻 Currently developing with: **Next.js**, **React Native**
 - 🔨 Latest project: [**SuperBiddo**](https://github.com/andre-fong/SUPERBIDDO) (check it out!!) 
-- 📍 Currently working at: **Symcor**
+- 📍 Currently working at: **UofT**
 - 👯 Looking to collaborate on: **A cool full-stack web project**
 - 🏃‍♂️ Interests: **Training**, **Anime**, and **Volleyball** 🏋️🍿🏐
 - 📫 Reach me at: **andre.fong@mail.utoronto.ca**
